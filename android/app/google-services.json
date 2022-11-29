@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "502116079577",
+    "project_id": "completetodaysworkout",
+    "storage_bucket": "completetodaysworkout.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502116079577:android:de7646a0bf35d778182bc8",
+        "android_client_info": {
+          "package_name": "com.example.parkmingyun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502116079577-bls5j7tp4igt3lcpqn45adgoqe17omc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeRiSqOH4gKGLV-Vvy4LdjT0OdfpBr0PA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502116079577-bls5j7tp4igt3lcpqn45adgoqe17omc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
