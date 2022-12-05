@@ -9,6 +9,7 @@ class WelcomView extends StatefulWidget {
 }
 
 class _WelcomViewState extends State<WelcomView> {
+  
   final List levels = [
     "입문자",
     "초보자",
